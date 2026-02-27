@@ -4,7 +4,7 @@ Este proyecto consiste en un **Currículum Vitae Interactivo** desarrollado como
 
 ## 🚀 Demo en vivo
 Puedes ver el proyecto funcionando aquí: 
-👉 [**Enlace a tu CV en GitHub Pages**](https://Abasterr.github.io)
+👉 [**Enlace a tu CV en GitHub Pages**](https://abasterr.github.io/CV-AFBG/)
 
 ## 🛠️ Tecnologías Utilizadas
 *   **HTML5:** Estructura semántica del contenido.
